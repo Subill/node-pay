@@ -1,5 +1,5 @@
 {
-  "name": "node-paystack",
+  "name": "node-pay",
   "version": "2.0.1",
   "description": "Paystack API wrapper",
   "main": "index.js",
@@ -24,10 +24,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/subill/node-paystack.git"
+    "url": "https://github.com/subill/node-pay.git"
   },
   "bugs": {
-    "url": "https://github.com/subill/node-paystack/issues"
+    "url": "https://github.com/subill/node-pay/issues"
   },
-  "homepage": "https://github.com/subill/node-paystack"
+  "homepage": "https://github.com/subill/node-pay"
 }
